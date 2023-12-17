@@ -1,0 +1,37 @@
+Algorithm Analysis Results (Merge Sort)
+
+Dataset: almostsorted.txt
+Avg Execution Time: 0.32979798316955566 seconds
+Formatted Avg Execution Time: 0:00:00
+Avg Steps: 1668928.0
+
+Dataset: random100.txt
+Avg Execution Time: 0.0 seconds
+Formatted Avg Execution Time: 0:00:00
+Avg Steps: 672.0
+
+Dataset: random100000.txt
+Avg Execution Time: 0.37428951263427734 seconds
+Formatted Avg Execution Time: 0:00:00
+Avg Steps: 1668928.0
+
+Dataset: random25000.txt
+Avg Execution Time: 0.07609295845031738 seconds
+Formatted Avg Execution Time: 0:00:00
+Avg Steps: 367232.0
+
+Dataset: random50000.txt
+Avg Execution Time: 0.1673237681388855 seconds
+Formatted Avg Execution Time: 0:00:00
+Avg Steps: 784464.0
+
+Dataset: random75000.txt
+Avg Execution Time: 0.2777688503265381 seconds
+Formatted Avg Execution Time: 0:00:00
+Avg Steps: 1218928.0
+
+Dataset: totallyreversed.txt
+Avg Execution Time: 0.29182738065719604 seconds
+Formatted Avg Execution Time: 0:00:00
+Avg Steps: 1668928.0
+

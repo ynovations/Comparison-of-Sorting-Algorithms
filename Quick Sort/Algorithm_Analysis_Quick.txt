@@ -1,0 +1,30 @@
+Algorithm Analysis Results (Quick Sort)
+
+Dataset: almostsorted.txt
+Avg Execution Time: 0:00:00 | Exact Seconds: 0.531229829788208
+Avg Steps: 2279911.0
+
+Dataset: random100.txt
+Avg Execution Time: 0:00:00 | Exact Seconds: 0.002125120162963867
+Avg Steps: 506.0
+
+Dataset: random100000.txt
+Avg Execution Time: 0:00:00 | Exact Seconds: 0.27487592697143554
+Avg Steps: 1008610.0
+
+Dataset: random25000.txt
+Avg Execution Time: 0:00:00 | Exact Seconds: 0.06995148658752441
+Avg Steps: 244973.0
+
+Dataset: random50000.txt
+Avg Execution Time: 0:00:00 | Exact Seconds: 0.14051718711853028
+Avg Steps: 531082.0
+
+Dataset: random75000.txt
+Avg Execution Time: 0:00:00 | Exact Seconds: 0.2023451805114746
+Avg Steps: 810523.0
+
+Dataset: totallyreversed.txt
+Avg Execution Time: 0:07:33 | Exact Seconds: 453.59993467330935
+Avg Steps: 2500049999.0
+

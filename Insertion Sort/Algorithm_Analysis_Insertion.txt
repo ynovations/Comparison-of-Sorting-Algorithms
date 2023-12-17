@@ -1,0 +1,37 @@
+Algorithm Analysis Results (Insertion Sort)
+
+Dataset: almostsorted.txt
+Avg Execution Time: 103.17136926651001 seconds
+Formatted Avg Execution Time: 0:01:43
+Avg Steps: 572622325.0
+
+Dataset: random100.txt
+Avg Execution Time: 0.0003989219665527344 seconds
+Formatted Avg Execution Time: 0:00:00
+Avg Steps: 2856.0
+
+Dataset: random100000.txt
+Avg Execution Time: 621.2901484966278 seconds
+Formatted Avg Execution Time: 0:10:21
+Avg Steps: 2489326458.0
+
+Dataset: random25000.txt
+Avg Execution Time: 27.761428928375246 seconds
+Formatted Avg Execution Time: 0:00:27
+Avg Steps: 156009090.0
+
+Dataset: random50000.txt
+Avg Execution Time: 121.2614339351654 seconds
+Formatted Avg Execution Time: 0:02:01
+Avg Steps: 625794731.0
+
+Dataset: random75000.txt
+Avg Execution Time: 308.5575918674469 seconds
+Formatted Avg Execution Time: 0:05:08
+Avg Steps: 1411869612.0
+
+Dataset: totallyreversed.txt
+Avg Execution Time: 823.5767063617707 seconds
+Formatted Avg Execution Time: 0:13:43
+Avg Steps: 5000049999.0
+
